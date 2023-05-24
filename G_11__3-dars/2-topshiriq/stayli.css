@@ -1,0 +1,138 @@
+* {
+  margin: 0;
+  padding: 0;
+  background: #e3eef8;
+  font-family: "Courier New", Courier, monospace;
+}
+h4 {
+  position: relative;
+  left: 300px;
+  margin: 20px;
+  top: 20px;
+}
+.tepa {
+  display: flex;
+  height: 60px;
+  width: 100%;
+}
+img {
+  width: 20px;
+  height: 20px;
+  position: relative;
+  margin: 10px;
+  left: 250px;
+  top: 30px;
+}
+.shades {
+  position: relative;
+  left: 250px;
+  margin: 7px;
+  top: 20px;
+}
+h3 {
+  position: relative;
+  left: 450px;
+  margin: 11px;
+  color: #258aff;
+  border: 2px solid #258aff;
+  border-radius: 3px;
+  padding: 5px 10px;
+  top: 20px;
+}
+.orta {
+  width: 400px;
+  height: 200px;
+  text-align: center;
+  position: relative;
+  top: 60px;
+  left: 450px;
+}
+.input {
+  color: #878b90;
+  background-color: #fff;
+  height: 40px;
+  width: 190px;
+  position: relative;
+  top: 20px;
+  left: 20px;
+}
+.emaol {
+  position: relative;
+  top: 10px;
+  background-color: #fff;
+}
+.tugma {
+  position: relative;
+  color: #ffffff;
+  width: 150px;
+  height: 40px;
+  left: 220px;
+  background: #fc593b;
+  bottom: 18px;
+  border-radius: 5px;
+  border: none;
+}
+.pen {
+  width: 33.3%;
+  height: 150px;
+
+  text-align: center;
+  position: relative;
+  top: 160px;
+}
+.pan {
+  position: relative;
+  margin: 0;
+  width: 150px;
+  color: #000000;
+  font-size: 20px;
+  top: 30px;
+  left: 160px;
+}
+.ruch {
+  position: relative;
+  left: -90px;
+  top: 0px;
+  font-size: 30px;
+}
+.pul {
+  width: 33.3%;
+  height: 150px;
+  text-align: center;
+  position: relative;
+  top: -25px;
+  left: 33.3%;
+}
+.lis {
+  position: relative;
+  color: #000000;
+  font-size: 20px;
+  top: 5px;
+  left: 150px;
+  width: 50px;
+}
+.liss {
+  position: relative;
+  font-size: 20px;
+  top: 60px;
+  left: -90px;
+}
+
+.kam {
+  position: relative;
+  text-align: center;
+  left: 70%;
+  top: -175px;
+  width: 220px;
+}
+.Responsive {
+  position: relative;
+  top: -170px;
+  left: 72%;
+  width: 150px;
+}
+.kapitr {
+  position: relative;
+  top: -114px;
+  left: 70%;
+}
